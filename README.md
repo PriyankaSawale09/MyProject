@@ -1,1 +1,1 @@
-# MyProject
+# Human_Activity_Recognition_Using_Accelerometer_Data_and_CNN
